@@ -1,0 +1,24 @@
+.Declaration{
+  position: relative;
+  top:30px;
+
+}
+
+.last{
+  position: relative;
+  top: 80px;
+}
+
+.place{
+  font-weight: bold;
+}
+
+.sign{
+  position: relative;
+  left: 900px;
+}
+
+.empty{
+  position: relative;
+  height: 400px;
+}

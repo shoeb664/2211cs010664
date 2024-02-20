@@ -1,0 +1,116 @@
+.circle{
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    border-radius: 50%;
+    overflow: hidden;
+    left: 1100px;
+    top: 15px;
+}
+
+.circle img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top:0%;
+    left: 0%;
+}
+
+.header{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    
+}
+
+
+
+.Box{
+    width: 1200px;
+    position: relative;
+    top:30px;
+    height:40px;
+    background-color: rgb(188, 223, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: rgb(81, 71, 196);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+ 
+
+.para{
+    position: relative;
+    margin-top: auto;
+    top:40px;
+    width: 1200px;
+}
+
+.Skills{
+    position: relative;
+    top: 35px;
+}
+
+.education{
+    position: relative;
+    top:50px;
+}
+
+.education-item {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .year {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .details {
+    flex: 3;
+  }
+
+.Projects{
+    position: relative;
+    top:40px;
+}
+
+.ciphe{
+    position: relative;
+    width: 1200px;
+}
+
+.link{
+    position: relative;
+    top:-15px;
+}
+  
+.Certificates{
+    position: relative;
+    top:40px;
+}
+
+.ProjectTitles{
+    position: absolute;
+    left:200px;
+}
+
+.CerticateLink{
+    position: absolute;
+    left:220px;
+}
+
+.box1{
+    width: 1200px;
+    position: relative;
+    top:30px;
+    height:40px;
+    background-color: rgb(188, 223, 228);
+    font-size: 24px;
+    color: rgb(81, 71, 196);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
